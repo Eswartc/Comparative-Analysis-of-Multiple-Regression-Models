@@ -1,5 +1,3 @@
-Apologies for the oversight. Let's add the descriptions of the four regression models used in the README file.
-
 # Profit Prediction with Regression Analysis
 
 This repository contains a Python script for performing regression analysis to predict profit based on R&D Spend, Administration, and Marketing Spend.
